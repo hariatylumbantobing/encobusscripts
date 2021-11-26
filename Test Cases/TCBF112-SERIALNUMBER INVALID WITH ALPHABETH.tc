@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCBF112-SERIALNUMBER INVALID WITH ALPHABETH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29045e92-c8bd-48ee-8c61-150e68e163fe</testCaseGuid>
+</TestCaseEntity>

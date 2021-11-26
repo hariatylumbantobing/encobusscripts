@@ -1,0 +1,1 @@
+# encobus-automatetest
